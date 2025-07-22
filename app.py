@@ -10,7 +10,7 @@ from datetime import datetime
 # ------------------------------------------------------------------
 # PAGE CONFIG
 # ------------------------------------------------------------------
-st.set_page_config(layout="wide", page_title="Weather Dashboard", page_icon="☁️")
+st.set_page_config(layout="wide", page_title="Weather Dashboard...", page_icon="☁️")
 
 # ------------------------------------------------------------------
 # THEME & METRIC CARD STYLES (Dark + Colored KPI Tiles)
